@@ -1,2 +1,2 @@
 ## PROJECTO ROOT
-Este projecto será utilizado para a criação das nossas aplicações com o Laravel é um setup já semi pronto
+Este é um projecto utilizado para a criação de uma aplicação com o Laravel, um setup já semi pronto com algumas bibliotecas já pré-instaladas.
